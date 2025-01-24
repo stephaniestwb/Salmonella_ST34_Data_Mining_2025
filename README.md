@@ -14,7 +14,7 @@ description of results
 description of implications
 
 ### Journal
-Frontiers in Microbiology
+MDPI Microorganisms
 
 ## How to Read
 This repository is divided by sets, each corresponding to a specific scenario proposed in the paper. 
