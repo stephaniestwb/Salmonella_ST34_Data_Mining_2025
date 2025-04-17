@@ -1,20 +1,25 @@
 # Project
 Population genomics project for *Salmonella* Monophasic ST34.
 
-## Goal
-description of the goals
+### Objectives
+description of general objectives
+* objective 1
+* objective 2
+
+### Workflow
+add workflow
 
 ### Methods
 description of methods
 
-### Results
-description of results
+### Hypothesis Tested
+add hypothesis
 
-### Implication
-description of implications
+### Outcomes
+outcomes
 
-### Journal
-MDPI Microorganisms
+<!-- ### Journal
+MDPI Microorganisms-->
 
 ## How to Read
 This repository is divided by sets, each corresponding to a specific scenario proposed in the paper. 
