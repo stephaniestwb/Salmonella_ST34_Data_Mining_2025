@@ -2,9 +2,9 @@
 Population genomics project for *Salmonella* Monophasic ST34.
 
 ### Objectives
-description of general objectives
-* objective 1
-* objective 2
+* Objective 1
+* Objective 2
+* Objective 3
 
 ### Workflow
 add workflow
@@ -16,7 +16,9 @@ description of methods
 add hypothesis
 
 ### Outcomes
-outcomes
+* Feature importance selection (AMR Genes, Shell Genes, Plasmids)
+* Mean proportion distribution of most discriminating features
+* Shell Gene based hidden clusters
 
 <!-- ### Journal
 MDPI Microorganisms-->
