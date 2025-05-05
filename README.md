@@ -1,19 +1,18 @@
-# Project
-Population genomics project for *Salmonella* Monophasic ST34.
+# Project: Population genomics project for *Salmonella* Monophasic ST34.
 
 ### Objectives
-* Objective 1
-* Objective 2
-* Objective 3
+* To identify and rank the most discriminative genomic features (AMR genes, shell genes, and plasmid genes) associated with different sources or epidemiological clusters of Salmonella ST34 using Random Forest classification.
+* To evaluate the distribution patterns and clustering of shell genes across isolates to uncover potential hidden population structures within epidemiological clusters.
+* To assess the predictive value of top-ranked genes through proportion-based confusion matrix analysis, identifying features with the highest discriminatory power across different training/test splits.
 
 ### Workflow
-add workflow
+![GitHub Workflow](https://github.com/user-attachments/assets/ad481f7b-3922-467e-9f69-a9be7d830609)
 
-### Methods
+<!--### Methods
 description of methods
 
 ### Hypothesis Tested
-add hypothesis
+add hypothesis-->
 
 ### Outcomes
 * Feature importance selection (AMR Genes, Shell Genes, Plasmids)
